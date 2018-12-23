@@ -3,6 +3,11 @@ package org.ra.practise.sorting;
 /**
  * 
  * @author Piyush
+ * 
+ * Insertion Sort: 
+ * Divide an array into sorted and unsorted array. Add every element from unsorted array
+ * one by one into the sorted array by comparing it with every element in a sorted array.
+ *  
  * 1) Example : [10,9,8,7,6]
  * Consider the 0th element is sorted and the remaining the unsorted. 
  * 
