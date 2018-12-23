@@ -32,7 +32,7 @@ public class SelectionSortImpl {
 
 	}
 
-	static int[] performSelectionSort(int[] inputArray) {
+	private static int[] performSelectionSort(int[] inputArray) {
 		int arrayLength = inputArray.length;
 		
 		for (int i = 0; i < arrayLength; i++) {
